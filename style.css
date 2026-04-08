@@ -109,14 +109,14 @@
 }
 
 .university-text h2 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 800;
     color: var(--primary-blue);
     letter-spacing: 1.2px;
 }
 
 .university-text h3 {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 700;
     color: #0052cc;
     margin-top: 4px;
@@ -397,12 +397,12 @@
     }
 
     .university-text h2 {
-        font-size: 20px;
+        font-size: 19px;
         letter-spacing: 0.5px;
     }
 
     .university-text h3 {
-        font-size: 17px;
+        font-size: 20px;
         margin-top: 4px;
     }
 
@@ -457,7 +457,7 @@
     }
 
     .university-text h3 {
-        font-size: 12px;
+        font-size: 15px;
         margin-top: 3px;
     }
 
